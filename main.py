@@ -118,3 +118,14 @@ def create_map_file(blurb):
         map_file.write(blurb)
 
     return print('Success!')
+
+
+def main(armies):
+
+    blurb = generate_blurb(armies)
+    create_map_file(blurb)
+
+
+if __name__ == "__main__":
+    import sys
+    main(sys.argv[1])
