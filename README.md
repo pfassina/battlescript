@@ -10,7 +10,7 @@ As it is stands, you can use battlescript to define the commanders for each nati
 ### Function main()
 To run battlescript all you need to do is call the main function with your python dictionary
 
-```main(dict)``` 
+```main(dictionary)``` 
 
 
 ### From Terminal
