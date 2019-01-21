@@ -8,11 +8,14 @@ As it is stands, you can use battlescript to define the commanders for each nati
 ## How to Run battlescript
 
 ### Function main()
+To run battlescript all you need to do is call the main function with your python dictionary
+
 ```main(dict)``` 
 
 
 ### From Terminal
 Alternatively, you can also pass the dictionary as a JSON string and call batlescript from terminal.
+
 ```python3 main.py 'dictionary'```
 
 The script will create a ```Arena.map``` file on the current work directory.
