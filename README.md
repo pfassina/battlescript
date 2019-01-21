@@ -4,6 +4,8 @@ Creates a dominions map file to be used with [DasTactic's Arena Map](https://ste
 
 Takes as input a list of python dictionaries contaitining commanders, magic paths, and units for each nation. Battlescript will then update the map file with pre-defined units for each nation. 
 
+Runs on Python 3.7
+
 ## How to Run battlescript
 
 ### Function main()
