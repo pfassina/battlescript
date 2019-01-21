@@ -1,6 +1,6 @@
 # battlescript
 
-Creates a dominions map file to be used with Das's Arena Map.
+Creates a dominions map file to be used with Das' Arena Map.
 Takes as input a python dictionary of 2 armies, and updates the map file with pre-defined units for each nation.
 As it is stands, you can use battlescript to define the commanders for each nation with the desired magic paths and units under their command.
 
