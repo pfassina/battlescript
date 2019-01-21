@@ -112,10 +112,10 @@ def generate_blurb(armies):
 def create_map_file(blurb):
 
     with open('template.txt', 'r') as template:
-        blurb = template.read() + blurb
+        instructions = template.read() + blurb
 
     with open('Arena.map', 'w') as map_file:
-        map_file.write(blurb)
+        map_file.write(instructions)
 
     return print('Success!')
 
