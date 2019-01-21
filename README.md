@@ -94,4 +94,6 @@ dict = [
 ## Coming soon
 - ability to add items to commanders
 
-
+## Credits
+Illwinder for Dominions, and Das Tactics for the really cool Arena Map. 
+You can buy Dominions 5 [here](https://store.steampowered.com/app/722060/Dominions_5__Warriors_of_the_Faith/), and check Das Tactics youtube channel [here](https://www.youtube.com/user/Das24680/).
